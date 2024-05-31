@@ -1,2 +1,0 @@
-# yanistvg.github.io
-portfolio
